@@ -1,9 +1,12 @@
 import React from 'react';
+import './index.css';
+import reactPic from './public/img/react-banner.jpeg'
 
 function App() {
     return (
-        <div>
-            <p>React webpack</p>
+        <div className='wrapper'>
+            <p style={{ fontSize: 30 }}>React webpack</p>
+            <img src={reactPic} alt='react' />
         </div>
     )
 }

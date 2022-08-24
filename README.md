@@ -4,6 +4,12 @@
 
 React webpack setup
 
+．HTML/CSS/Javascript/React
+
+．Picture/Google font
+
+．Build
+
 ## Tech Stack
 
 webpack, Reactjs
